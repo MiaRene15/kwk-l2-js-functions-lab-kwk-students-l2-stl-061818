@@ -3,13 +3,13 @@
 function distanceFromHqInBlocks(block) {
   if (block > 42) {
     let calc = block - 42
+    return calc 
   } else if  (block < 42) {
     let calc = 42 - block
+    return calc 
   } 
-  return calc 
+
 }
-
-
 
 function distanceFromHqInFeet(block) {
   distanceFromHqInBlocks(block);
