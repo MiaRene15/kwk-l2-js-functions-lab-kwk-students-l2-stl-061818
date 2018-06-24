@@ -5,4 +5,6 @@
 // return calc
 // }
 
-function 
+function distanceFromHqInBlocks(block) {
+  
+}
