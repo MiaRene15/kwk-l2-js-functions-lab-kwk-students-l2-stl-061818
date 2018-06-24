@@ -26,4 +26,6 @@ function distanceTravelledInFeet(block1, block2) {
   }
 }
 
-function calculatesFarePrice()
+function calculatesFarePrice(start, destination) {
+  
+}
