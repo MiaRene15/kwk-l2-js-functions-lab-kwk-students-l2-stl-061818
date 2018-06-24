@@ -7,6 +7,8 @@
 
 function distanceFromHqInBlocks(block) {
   if (block > 42) {
-    block 
+    block - 42
+  } else (block < 42) {
+    42 - block
   }
 }
