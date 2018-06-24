@@ -25,3 +25,5 @@ function distanceTravelledInFeet(block1, block2) {
   return feetTravel
   }
 }
+
+function 
