@@ -27,6 +27,5 @@ function distanceTravelledInFeet(block1, block2) {
 }
 
 function calculatesFarePrice(start, destination) {
-  let feetFare = distanceFromHqInFeet(block)
-  return feetFare 
+  if ()
 }
