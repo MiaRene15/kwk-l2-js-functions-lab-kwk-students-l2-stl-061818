@@ -2,5 +2,5 @@
 
 function distanceFromHqInBlocks(block) {
  let calc = block - 42 
- return calc
+ return calc(Math.sign())
 }
