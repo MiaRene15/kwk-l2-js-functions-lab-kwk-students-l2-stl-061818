@@ -20,5 +20,8 @@ function distanceTravelledInFeet(block1, block2) {
   if (block1 > block2) {
   let feettravel = (block2-block1)*264
   return feettravel
+  } else if (block2 < block1) {
+  let feettravel = (block1-block2)*264
+  return feettravel
   }
 }
