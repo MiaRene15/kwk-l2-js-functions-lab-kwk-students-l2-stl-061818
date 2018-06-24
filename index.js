@@ -12,5 +12,5 @@ function distanceFromHqInBlocks(block) {
 }
 
 function distanceFromHqInFeet(block) {
-  
+  distanceFromHqInBlocks(block); 
 }
