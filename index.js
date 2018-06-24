@@ -2,5 +2,5 @@
 
 function distanceFromHqInBlocks(block) {
  let calc = block - 43 
- return 
+ return calc
 }
