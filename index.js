@@ -6,5 +6,5 @@
 // }
 
 function distanceFromHqInBlocks(block) {
-  
+  if (block )
 }
