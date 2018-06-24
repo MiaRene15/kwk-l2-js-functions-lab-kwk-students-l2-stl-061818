@@ -16,6 +16,6 @@ function distanceFromHqInFeet(block) {
   return feetcalc
 }
 
-function distanceTravelledInFeet() {
+function distanceTravelledInFeet(block1, block2) {
   
 }
