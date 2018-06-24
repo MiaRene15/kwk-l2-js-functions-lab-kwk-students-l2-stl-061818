@@ -15,3 +15,7 @@ function distanceFromHqInFeet(block) {
   let feetcalc = distanceFromHqInBlocks(block) * 264
   return feetcalc
 }
+
+function distanceTravelledInFeet() {
+  
+}
