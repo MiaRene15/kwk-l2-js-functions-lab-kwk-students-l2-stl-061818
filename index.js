@@ -27,6 +27,7 @@ function distanceTravelledInFeet(block1, block2) {
 }
 
 function calculatesFarePrice(start, destination) {
-  if ( distanceTravelledInFeet(block1, block2) < 400 )
-    let priceCalc = ""
+     distanceTravelledInFeet(block1, block2) < 400 
+    let priceCalc = 0 
+    return priceCalc
 }
